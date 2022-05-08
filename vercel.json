@@ -1,0 +1,7 @@
+{
+    "name": "vkj",
+    "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "http://blog.zixiwu.cn/$1"}
+    ]
+  }
