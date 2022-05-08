@@ -2,6 +2,6 @@
     "name": "vkj",
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://blog.zixiwu.cn/$1"}
+      {"src": "/(.*)","dest": "http://blog.echs.top/$1"}
     ]
   }
