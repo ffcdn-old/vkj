@@ -2,6 +2,6 @@
     "name": "vkj",
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://dy.azx.tools/$1"}
+      {"src": "/(.*)","dest": "http://cdn.jsdelivr.com/$1"}
     ]
   }
