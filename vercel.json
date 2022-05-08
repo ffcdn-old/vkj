@@ -2,6 +2,6 @@
     "name": "vkj",
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://gcore.jsdelivr.net/$1"}
+      {"src": "/(.*)","dest": "http://www.google.com/$1"}
     ]
   }
